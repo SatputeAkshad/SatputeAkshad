@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="238" viewBox="0 0 920 238" role="img" aria-labelledby="title desc">
+  <title id="title">SatputeAkshad · GitHub activity snapshot</title>
+  <desc id="desc">As seen on 16 November 2026. Six public repositories, one follower, six contributions in the previous year. August: 3, September: 0, October: 1, November so far: 2.</desc>
+  <rect x=".5" y=".5" width="919" height="237" rx="13" fill="#101826" stroke="#2b3a52"/>
+  <path d="M372 23v192" stroke="#2b3a52"/>
+  <g font-family="system-ui,Segoe UI,sans-serif">
+    <text x="29" y="40" fill="#9cd8fe" font-size="24" font-weight="700">SatputeAkshad</text>
+    <text x="30" y="64" fill="#b0bfd4" font-size="14">Public profile snapshot · 16 Nov 2026</text>
+    <g fill="#e0e8f6" font-size="16">
+      <text x="30" y="111">Public repositories</text>
+      <text x="30" y="151">Contributions in the past year</text>
+      <text x="30" y="191">Followers</text>
+    </g>
+    <g fill="#d0b5fe" font-size="22" font-weight="700" text-anchor="end">
+      <text x="338" y="112">6</text><text x="338" y="152">6</text><text x="338" y="192">1</text>
+    </g>
+    <text x="403" y="40" fill="#9cd8fe" font-size="20" font-weight="700">Recent contributions</text>
+    <text x="403" y="64" fill="#b0bfd4" font-size="14">By month · November through the 16th</text>
+    <path d="M442 170H878m-436-28H878m-436-28H878m-436-28H878" stroke="#2b3a52"/>
+    <g fill="#b0bfd4" font-size="13" text-anchor="end">
+      <text x="429" y="174">0</text><text x="429" y="146">1</text><text x="429" y="118">2</text><text x="429" y="90">3</text>
+    </g>
+    <g fill="#b698f5">
+      <rect x="467" y="86" width="54" height="84" rx="5"/>
+      <rect x="689" y="142" width="54" height="28" rx="5"/>
+      <rect x="800" y="114" width="54" height="56" rx="5"/>
+    </g>
+    <g fill="#b0bfd4" font-size="14" text-anchor="middle">
+      <text x="494" y="197">Aug</text><text x="605" y="197">Sep</text><text x="716" y="197">Oct</text><text x="827" y="197">Nov</text>
+    </g>
+  </g>
+</svg>
