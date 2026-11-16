@@ -1,26 +1,43 @@
 <p align="center">
-  <img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" alt="Animated coding banner" width="800" />
+  <img src="./assets/profile-banner.svg" width="920" alt="Akshad Satpute · Web development, C/C++, and game development" />
 </p>
 
-# Hi, I’m Akshad Satpute 👋
+## 🎯 About Me
 
-I’m a BCA student in India. I build web apps for practical workflows, enjoy programming in C and C++, and am exploring game development.
+<table>
+<tr>
+<td width="60%" valign="middle">
 
-## Featured projects
+```js
+const akshad = {
+  location: "Pune, India",
+  education: "BCA student",
+  building: "Practical web apps",
+  programming: ["C", "C++", "JavaScript"],
+  exploring: ["Game development", "Unity", "Unreal Engine"]
+};
+```
 
-### Developer Portfolio
+I enjoy turning everyday workflows into web apps and experimenting with game development.
 
-A responsive React site that showcases my projects, technical skills, and development journey. I built it with React, JavaScript, HTML, and CSS.
+</td>
+<td width="40%" align="center" valign="middle">
+  <img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" width="280" alt="Animated coding scene" />
+</td>
+</tr>
+</table>
 
-[View portfolio](https://akshad-protfolio.vercel.app) · [Browse source code](https://github.com/SatputeAkshad/Akshad-protfolio)
+## 🌐 Connect With Me
 
-### ASG Gamezone
+<p align="center">
+  <a href="https://www.linkedin.com/in/akshad-satpute7"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" /></a>
+  <a href="https://www.instagram.com/isthat_akshad/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-C13584?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" /></a>
+  <a href="https://leetcode.com/u/FRVovCQWDc/"><img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-2B2B2B?style=for-the-badge&amp;logo=leetcode&amp;logoColor=FFA116" /></a>
+  <a href="https://www.hackerrank.com/akshadsatpu46"><img alt="HackerRank" src="https://img.shields.io/badge/HackerRank-176E43?style=for-the-badge&amp;logo=hackerrank&amp;logoColor=white" /></a>
+  <a href="mailto:Akshadsatpute@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-BD3930?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" /></a>
+</p>
 
-A mobile-friendly dashboard for a gaming café with six console stations. Staff can book sessions, manage multiplayer groups, and get an audible alert when a session ends. The dashboard checks for overlapping reservations and shows when each console will be free.
-
-I built the local dashboard with JavaScript and Node.js. I’m working toward shared booking records so staff can use it across devices.
-
-## Languages and tools
+## 🛠️ Tech Stack
 
 ### Languages and web development
 
@@ -76,16 +93,16 @@ I built the local dashboard with JavaScript and Node.js. I’m working toward sh
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" title="TensorFlow" width="38" height="38" />
 </p>
 
+## 📊 GitHub Analytics
+
 <p align="center">
-  <img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" alt="Animated coding scene" width="360" />
+  <a href="https://github.com/SatputeAkshad#js-contribution-activity"><img src="./assets/github-activity.svg" width="920" alt="GitHub activity snapshot as of November 16, 2026: 6 public repositories, 6 contributions in the past year, and 1 follower" /></a>
 </p>
 
-## Connect
+## 🚀 Featured Work
 
-<p>
-  <a href="https://www.linkedin.com/in/akshad-satpute7"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" title="LinkedIn" width="30" height="30" /></a>
-  <a href="https://www.hackerrank.com/akshadsatpu46"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" title="HackerRank" width="30" height="30" /></a>
-  <a href="https://leetcode.com/u/FRVovCQWDc/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" title="LeetCode" width="30" height="30" /></a>
-</p>
+### Developer Portfolio
 
-[LinkedIn](https://www.linkedin.com/in/akshad-satpute7) · [Email](mailto:Akshadsatpute@gmail.com)
+A responsive React site that showcases my projects, technical skills, and development journey. I built it with React, JavaScript, HTML, and CSS.
+
+[View portfolio](https://akshad-protfolio.vercel.app) · [Browse source code](https://github.com/SatputeAkshad/Akshad-protfolio)
