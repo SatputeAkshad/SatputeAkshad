@@ -48,7 +48,7 @@ I built the local dashboard with JavaScript and Node.js. I’m working toward sh
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" title="Git" width="38" height="38" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" title="Docker" width="38" height="38" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" title="Linux" width="38" height="38" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" title="AWS" width="38" height="38" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" title="AWS" width="38" height="38" />
   <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" title="Google Cloud" width="38" height="38" />
 </p>
 
@@ -85,7 +85,7 @@ I built the local dashboard with JavaScript and Node.js. I’m working toward sh
 <p>
   <a href="https://www.linkedin.com/in/akshad-satpute7"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" title="LinkedIn" width="30" height="30" /></a>
   <a href="https://www.hackerrank.com/akshadsatpu46"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" title="HackerRank" width="30" height="30" /></a>
-  <a href="https://leetcode.com/akshadsatpute/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" title="LeetCode" width="30" height="30" /></a>
+  <a href="https://leetcode.com/u/FRVovCQWDc/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" title="LeetCode" width="30" height="30" /></a>
 </p>
 
 [LinkedIn](https://www.linkedin.com/in/akshad-satpute7) · [Email](mailto:Akshadsatpute@gmail.com)
