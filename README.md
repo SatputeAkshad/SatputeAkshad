@@ -15,8 +15,6 @@
   <img alt="Location" src="https://img.shields.io/badge/Pune-India-8957e5?style=flat-square" />
 </p>
 
-<p align="center"><sub>Pixel art by <a href="https://www.pinterest.com/pin/935833997588582604/">@brunopixels</a></sub></p>
-
 ## 🎯 About Me
 
 <table>
