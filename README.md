@@ -1,6 +1,21 @@
 <p align="center">
-  <img src="./assets/profile-banner.svg" width="920" alt="Akshad Satpute · Web development, C/C++, and game development" />
+  <img src="./assets/main-banner.jpg" width="920" alt="Pixel-art desk scene of a developer coding at night" />
 </p>
+
+<h1 align="center">Hi, I'm Akshad Satpute 👋</h1>
+
+<p align="center">
+  <b>BCA student from Pune, India</b> · building practical web apps and experimenting with game development
+</p>
+
+<p align="center">
+  <img alt="Web development" src="https://img.shields.io/badge/Web_Development-React_·_Django-1f6feb?style=flat-square" />
+  <img alt="Systems" src="https://img.shields.io/badge/Programming-C_·_C++-1f6feb?style=flat-square" />
+  <img alt="Game dev" src="https://img.shields.io/badge/Game_Dev-Unity_·_Unreal-1f6feb?style=flat-square" />
+  <img alt="Location" src="https://img.shields.io/badge/Pune-India-8957e5?style=flat-square" />
+</p>
+
+<p align="center"><sub>Pixel art by <a href="https://www.pinterest.com/pin/935833997588582604/">@brunopixels</a></sub></p>
 
 ## 🎯 About Me
 
@@ -20,9 +35,14 @@ const akshad = {
 
 I enjoy turning everyday workflows into web apps and experimenting with game development.
 
+- 🔭 **Currently building:** web apps with React and Django
+- 🌱 **Currently learning:** Unity and Unreal Engine
+- 🧩 **Practicing:** problem solving on LeetCode and HackerRank
+- 📫 **Reach me:** [Akshadsatpute@gmail.com](mailto:Akshadsatpute@gmail.com)
+
 </td>
 <td width="40%" align="center" valign="middle">
-  <img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" width="280" alt="Animated coding scene" />
+  <img src="./assets/secondary-banner.jpg" width="320" alt="Pixel-art room with a CRT monitor, window, and cats" />
 </td>
 </tr>
 </table>
