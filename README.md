@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/main-banner.jpg" width="920" alt="Pixel-art desk scene of a developer coding at night" />
+  <img src="./assets/main-banner.gif" width="920" alt="Pixel-art desk scene of a developer coding at night" />
 </p>
 
 <h1 align="center">Hi, I'm Akshad Satpute 👋</h1>
@@ -42,7 +42,7 @@ I enjoy turning everyday workflows into web apps and experimenting with game dev
 
 </td>
 <td width="40%" align="center" valign="middle">
-  <img src="./assets/secondary-banner.jpg" width="320" alt="Pixel-art room with a CRT monitor, window, and cats" />
+  <img src="./assets/secondary-banner.gif" width="320" alt="Pixel-art room with a CRT monitor, window, and cats" />
 </td>
 </tr>
 </table>
